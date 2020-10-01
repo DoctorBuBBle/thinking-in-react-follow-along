@@ -1,6 +1,8 @@
 # thinking-in-react-follow-along
 I created this reprository to build the project from the reactjs docs [Thinking in React](https://reactjs.org/docs/thinking-in-react.html).
 
+You can find the live demo [here](https://thinking-in-react-follow-along.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
