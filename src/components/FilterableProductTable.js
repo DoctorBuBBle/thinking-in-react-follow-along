@@ -10,7 +10,6 @@ export default class FilterableProductTable extends React.Component {
   };
 
   onFilterChange = debounce((filter) => {
-      debugger;
     this.setState({ filter: filter });
   }, 100);
 
